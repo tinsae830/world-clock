@@ -46,6 +46,7 @@ citiesElement.innerHTML = `
 
     <div class="time"> ${cityTime.format("h:mm:ss")}<small>${cityTime.format("A")}</small></div>
  </div>
+ <button> <a href="index.html" class="connect">All cities </a></button>
  `;
 }
 

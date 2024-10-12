@@ -9,6 +9,7 @@ h1{
     text-align: center;
     font-family: sans-serif;
     font-size: 36px;
+    color: powderblue;
 }
 
 h2{
@@ -21,6 +22,16 @@ a{
     text-decoration: none;
     color: powderblue;
     font-weight: bold;
+}
+
+button{
+    background-color: powderblue;
+    color: white;
+    margin-bottom: 20px;
+    padding: 5px;
+    font-size: 15px;
+    border: none;
+    border-radius:10px ;
 }
 
 
@@ -76,4 +87,8 @@ select{
 
 .city:last-child{
     border: none;
+}
+
+.connect{
+    color: white;
 }
